@@ -1,4 +1,4 @@
-﻿# Management Client Sample
+# Management Client Sample
 
 This sample will enable retry logic using the Polly framework to retry after a 429 error containing a Retry-After header.
 
